@@ -1,34 +1,21 @@
 {
-  "name": "node-windows",
-  "version": "0.1.7",
-  "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.",
+  "name": "tellki-node-windows",
+  "version": "0.0.1",
+  "description": "Support for Tellki Agent Windows service.",
   "keywords": [
-    "ngn",
+    "tellki",
     "windows",
     "service",
-    "daemon",
-    "logging",
-    "event",
-    "event logging",
-    "elevate",
-    "sudo",
-    "task"
+    "daemon"
   ],
-  "author": "Corey Butler <corey@coreybutler.com>",
-  "devDependencies": {},
   "main": "lib/node-windows.js",
-  "os": [
-    "win32"
-  ],
-  "preferGlobal": true,
   "dependencies": {
     "optimist": "~0.6.0"
   },
   "readmeFilename": "README.md",
-  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/coreybutler/node-windows.git"
+    "url": "git://github.com/tellkiApp/tellki-node-windows"
   },
   "license": "MIT",
   "engine": "node >= 0.10.10"
