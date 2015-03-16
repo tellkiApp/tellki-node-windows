@@ -1,6 +1,6 @@
 {
   "name": "tellki-node-windows",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Support for Tellki Agent Windows service.",
   "keywords": [
     "tellki",
